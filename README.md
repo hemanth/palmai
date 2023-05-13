@@ -1,0 +1,2 @@
+# palmai
+PaLM API client
