@@ -1,0 +1,19 @@
+{
+  "name": "palmai",
+  "version": "1.0.0",
+  "description": ">PaLM API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "expect": "^29.5.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
