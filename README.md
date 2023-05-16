@@ -14,7 +14,7 @@ npm install palmai
 ## Usage
 
 ```js
-const PalmAI = require('palm-ai');
+const PalmAI = require('palmai');
 
 const palm = new PalmAI(apiKey [, modelName]);
 
