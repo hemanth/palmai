@@ -1,6 +1,6 @@
 import PalmAI  from './index.js';
 import {describe,it} from 'node:test';
-import {expect} from 'expect';
+import expect from 'expect';
 describe('PALMClient', () => {
     let client;
     

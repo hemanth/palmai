@@ -1,7 +1,5 @@
 # palmai
->PaLM API client
-
-`palmai` is an interface for interacting with Google's Generative Language API.
+> An interface for interacting with Google's Generative Language API.
 
 ## Installation
 

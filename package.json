@@ -1,18 +1,25 @@
 {
   "name": "palmai",
   "version": "1.0.2",
-  "description": ">PaLM API client",
+  "description": "An interface for interacting with Google's Generative Language API.",
   "main": "index.js",
   "scripts": {
     "test": "node test.mjs"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "PaLM",
+    "PaLM-2",
+    "AI",
+    "Google"
+  ],
+  "author": "Hemanth HM <hemanth.hm@gmail.com> (https://h3manth.com)",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-    "expect": "^29.5.0"
-  },
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "engines": {
     "node": ">=16.0.0"
   }
